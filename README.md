@@ -12,6 +12,17 @@ Right arrow - goes right
 Left arrow - goes left
 Space bar - shape goes down fast
 
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/Preciouss-dev/Tetris/assets/127659889/cd45f9f3-11ae-4296-82da-8252f002c8b8)
 
 Credits : Precious Myemane
