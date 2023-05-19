@@ -7,10 +7,10 @@ To install you need to have python3 and an IDE of your choice (i used vs code) a
 When paying the game:
 
 Up arrow - for changing the direction of the shape
-Down arrow - shape goes down fast
-Right arrow - goes right
-Left arrow - goes left
-Space bar - shape goes down fast
+.Down arrow - shape goes down fast
+.Right arrow - goes right
+.Left arrow - goes left
+.Space bar - shape goes down fast
 
 
 
