@@ -4,7 +4,7 @@ Building my all time childhood favourite game while re-learning python concepts.
 
 To install you need to have python3 and an IDE of your choice (i used vs code) and install pygame to enable the graphics of the game.
 
-When paying the game:
+When playing the game:
 
 Up arrow - for changing the direction of the shape
 .Down arrow - shape goes down fast
